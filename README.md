@@ -15,13 +15,13 @@ To analyze the relationship of the campaign outcomes and funding goals, another 
 The challenge that was encountered in the process was the launch date formatted in Unix timestamp. It needs to be converted to a readable date format.   The Unix timestamp was converted from second to minutes to hours to days. The result in days was then added to the epoch date 01/10/1970 using EXCEL date function. After the conversion the EXCEL Date format was applied to the Launch Date column.
 ## Results
 
-[Outcome Based on Launch Date Graph](https://github.com/fmgribbon/kickerstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+[Outcome Based on Launch Date Chart](https://github.com/fmgribbon/kickerstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
   The theater campaign outcomes by launch date, showed that the month of May was the most successful campaign. Also, the summer months, June, July, August have more successful theater campaigns compared to other months except May. The percentage of failed theater campaigns in the months of Jun, July and August were close to each other.
 
-[Outcome Based on Goals Graph](https://github.com/fmgribbon/kickerstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+[Outcome Based on Goals Chart](https://github.com/fmgribbon/kickerstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 
 - What can you conclude about the Outcomes based on Goals?
